@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on full stack ai multimodel bot with video integration
+I am currently working on full stack Ai Multimodel bot with video integration
 
 
 ## 🌐 Socials:
